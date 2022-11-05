@@ -1,0 +1,31 @@
+Level 1 : 56 moves!  ||Time: 07/01/2021 03:07:42  ||Username: Default User
+Level 1 : 35 moves!  ||Time: 07/01/2021 03:13:09  ||Username: Default User
+Level 1 : 39 moves!  ||Time: 07/01/2021 03:15:27  ||Username: Default User
+Level 2 : 58 moves!  ||Time: 07/01/2021 03:15:27  ||Username: Default User
+Level 3 : 130 moves!  ||Time: 07/01/2021 03:15:27  ||Username: Default User
+Level 4 : 87 moves!  ||Time: 07/01/2021 03:15:27  ||Username: Default User
+Level 5 : 528 moves!  ||Time: 07/01/2021 03:15:27  ||Username: Default User
+Level 6 : 320 moves!  ||Time: 07/01/2021 03:15:27  ||Username: Default User
+Level 1 : 33 moves!  ||Time: 07/01/2021 03:33:13  ||Username: Default User
+Level 1 : 56 moves!  ||Time: 07/01/2021 03:36:21  ||Username: Default User
+Level 1 : 60 moves!  ||Time: 07/01/2021 03:37:33  ||Username: Default User
+Level 2 : 56 moves!  ||Time: 07/01/2021 03:37:33  ||Username: Default User
+Level 1 : 56 moves!  ||Time: 07/01/2021 03:49:08  ||Username: Default User
+Level 2 : 62 moves!  ||Time: 07/01/2021 03:49:08  ||Username: Default User
+Level 3 : 33 moves!  ||Time: 07/01/2021 04:06:28  ||Username: Default User
+Level 1 : 62 moves!  ||Time: 07/01/2021 04:11:06  ||Username: Default User
+Level 2 : 56 moves!  ||Time: 07/01/2021 04:11:06  ||Username: Default User
+Level 3 : 166 moves!  ||Time: 07/01/2021 04:22:11  ||Username: Default User
+Level 1 : 48 moves!  ||Time: 07/01/2021 05:40:36  ||Username: user1
+Level 2 : 59 moves!  ||Time: 07/01/2021 05:40:36  ||Username: user1
+Level 1 : 39 moves!  ||Time: 07/01/2021 06:08:32  ||Username: user444444
+Level 2 : 56 moves!  ||Time: 07/01/2021 06:08:32  ||Username: user444444
+Level 2 : 68 moves!  ||Time: 07/01/2021 06:14:27  ||Username: user444444
+Level 3 : 151 moves!  ||Time: 07/01/2021 06:16:32  ||Username: user444444
+Level 4 : 76 moves!  ||Time: 07/01/2021 06:16:32  ||Username: user444444
+Level 5 : 508 moves!  ||Time: 07/01/2021 06:24:37  ||Username: Default User
+Level 6 : 303 moves!  ||Time: 07/01/2021 06:24:37  ||Username: Default User
+Level 1 : 39 moves!  ||Time: 07/01/2021 07:09:49  ||Username: user111111
+Level 1 : 37 moves!  ||Time: 07/01/2021 07:15:24  ||Username: Default User
+Level 1 : 45 moves!  ||Time: 07/01/2021 07:33:47  ||Username: Default User
+Level 1 : 45 moves!  ||Time: 07/01/2021 07:47:15  ||Username: Default User

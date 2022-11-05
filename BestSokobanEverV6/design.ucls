@@ -1,0 +1,753 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<class-diagram version="1.2.4" icons="true" always-add-relationships="false" generalizations="true" realizations="true" 
+  associations="true" dependencies="true" nesting-relationships="true" router="FAN">  
+  <class id="1" language="java" name="sokodan.basic.Adapter.AdapterMedia" project="BestSokobanEverV6" 
+    file="/BestSokobanEverV6/src/sokodan/basic/Adapter/AdapterMedia.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="1971" y="295"/>    
+    <display autosize="false" stereotype="false" package="false" initial-value="false" signature="false" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="false" package="false" protected="false" private="false" static="false"/>      
+      <operations public="false" package="false" protected="false" private="false" static="false"/>    
+    </display>  
+  </class>  
+  <interface id="2" language="java" name="sokodan.basic.Adapter.AdvancedMediaPlayerInterface" 
+    project="BestSokobanEverV6" file="/BestSokobanEverV6/src/sokodan/basic/Adapter/AdvancedMediaPlayerInterface.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="1962" y="431"/>    
+    <display autosize="false" stereotype="false" package="false" initial-value="false" signature="false" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="false" package="false" protected="false" private="false" static="false"/>      
+      <operations public="false" package="false" protected="false" private="false" static="false"/>    
+    </display>  
+  </interface>  
+  <class id="3" language="java" name="sokodan.basic.Adapter.ConcreteMediaPlayer" project="BestSokobanEverV6" 
+    file="/BestSokobanEverV6/src/sokodan/basic/Adapter/ConcreteMediaPlayer.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="2155" y="157"/>    
+    <display autosize="false" stereotype="false" package="false" initial-value="false" signature="false" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="false" package="false" protected="false" private="false" static="false"/>      
+      <operations public="false" package="false" protected="false" private="false" static="false"/>    
+    </display>  
+  </class>  
+  <interface id="4" language="java" name="sokodan.basic.Adapter.InterfaceMediaPlayer" project="BestSokobanEverV6" 
+    file="/BestSokobanEverV6/src/sokodan/basic/Adapter/InterfaceMediaPlayer.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="2254" y="424"/>    
+    <display autosize="false" stereotype="false" package="false" initial-value="false" signature="false" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="false" package="false" protected="false" private="false" static="false"/>      
+      <operations public="false" package="false" protected="false" private="false" static="false"/>    
+    </display>  
+  </interface>  
+  <class id="5" language="java" name="sokodan.basic.Adapter.Mp4Player" project="BestSokobanEverV6" 
+    file="/BestSokobanEverV6/src/sokodan/basic/Adapter/Mp4Player.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="2040" y="548"/>    
+    <display autosize="false" stereotype="false" package="false" initial-value="false" signature="false" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="false" package="false" protected="false" private="false" static="false"/>      
+      <operations public="false" package="false" protected="false" private="false" static="false"/>    
+    </display>  
+  </class>  
+  <class id="6" language="java" name="sokodan.basic.Adapter.WavPlayer" project="BestSokobanEverV6" 
+    file="/BestSokobanEverV6/src/sokodan/basic/Adapter/WavPlayer.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="1848" y="543"/>    
+    <display autosize="false" stereotype="false" package="false" initial-value="false" signature="false" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="false" package="false" protected="false" private="false" static="false"/>      
+      <operations public="false" package="false" protected="false" private="false" static="false"/>    
+    </display>  
+  </class>  
+  <class id="7" language="java" name="sokodan.basic.FactoryPattern.Beige" project="BestSokobanEverV6" 
+    file="/BestSokobanEverV6/src/sokodan/basic/FactoryPattern/Beige.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="1843" y="-301"/>    
+    <display autosize="false" stereotype="false" package="false" initial-value="false" signature="false" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="false" package="false" protected="false" private="false" static="false"/>      
+      <operations public="false" package="false" protected="false" private="false" static="false"/>    
+    </display>  
+  </class>  
+  <class id="8" language="java" name="sokodan.basic.FactoryPattern.Blue" project="BestSokobanEverV6" 
+    file="/BestSokobanEverV6/src/sokodan/basic/FactoryPattern/Blue.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="1436" y="-293"/>    
+    <display autosize="false" stereotype="false" package="false" initial-value="false" signature="false" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="false" package="false" protected="false" private="false" static="false"/>      
+      <operations public="false" package="false" protected="false" private="false" static="false"/>    
+    </display>  
+  </class>  
+  <interface id="9" language="java" name="sokodan.basic.FactoryPattern.Color" project="BestSokobanEverV6" 
+    file="/BestSokobanEverV6/src/sokodan/basic/FactoryPattern/Color.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="1753" y="-413"/>    
+    <display autosize="false" stereotype="false" package="false" initial-value="false" signature="false" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="false" package="false" protected="false" private="false" static="false"/>      
+      <operations public="false" package="false" protected="false" private="false" static="false"/>    
+    </display>  
+  </interface>  
+  <class id="10" language="java" name="sokodan.basic.FactoryPattern.ColorFactory" project="BestSokobanEverV6" 
+    file="/BestSokobanEverV6/src/sokodan/basic/FactoryPattern/ColorFactory.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="1711" y="-153"/>    
+    <display autosize="false" stereotype="false" package="false" initial-value="false" signature="false" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="false" package="false" protected="false" private="false" static="false"/>      
+      <operations public="false" package="false" protected="false" private="false" static="false"/>    
+    </display>  
+  </class>  
+  <class id="11" language="java" name="sokodan.basic.FactoryPattern.DefaultColor" project="BestSokobanEverV6" 
+    file="/BestSokobanEverV6/src/sokodan/basic/FactoryPattern/DefaultColor.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="1571" y="-298"/>    
+    <display autosize="false" stereotype="false" package="false" initial-value="false" signature="false" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="false" package="false" protected="false" private="false" static="false"/>      
+      <operations public="false" package="false" protected="false" private="false" static="false"/>    
+    </display>  
+  </class>  
+  <class id="12" language="java" name="sokodan.basic.FactoryPattern.Red" project="BestSokobanEverV6" 
+    file="/BestSokobanEverV6/src/sokodan/basic/FactoryPattern/Red.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="1688" y="-297"/>    
+    <display autosize="false" stereotype="false" package="false" initial-value="false" signature="false" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="false" package="false" protected="false" private="false" static="false"/>      
+      <operations public="false" package="false" protected="false" private="false" static="false"/>    
+    </display>  
+  </class>  
+  <class id="13" language="java" name="sokodan.basic.Info.Dialog" project="BestSokobanEverV6" 
+    file="/BestSokobanEverV6/src/sokodan/basic/Info/Dialog.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="1588" y="65"/>    
+    <display autosize="false" stereotype="false" package="false" initial-value="false" signature="false" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="false" package="false" protected="false" private="false" static="false"/>      
+      <operations public="false" package="false" protected="false" private="false" static="false"/>    
+    </display>  
+  </class>  
+  <class id="14" language="java" name="sokodan.basic.Info.GameLogger" project="BestSokobanEverV6" 
+    file="/BestSokobanEverV6/src/sokodan/basic/Info/GameLogger.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="52" width="256" x="601" y="193"/>    
+    <display autosize="false" stereotype="false" package="false" initial-value="false" signature="false" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="false" package="false" protected="false" private="false" static="false"/>      
+      <operations public="false" package="false" protected="false" private="false" static="false"/>    
+    </display>  
+  </class>  
+  <interface id="15" language="java" name="sokodan.basic.Location.IteratorPattern.Container" project="BestSokobanEverV6" 
+    file="/BestSokobanEverV6/src/sokodan/basic/Location/IteratorPattern/Container.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="578" y="902"/>    
+    <display autosize="false" stereotype="false" package="false" initial-value="false" signature="false" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="false" package="false" protected="false" private="false" static="false"/>      
+      <operations public="false" package="false" protected="false" private="false" static="false"/>    
+    </display>  
+  </interface>  
+  <class id="16" language="java" name="sokodan.basic.Location.IteratorPattern.GameGrid.GridIterator" 
+    project="BestSokobanEverV6" file="/BestSokobanEverV6/src/sokodan/basic/Location/IteratorPattern/GameGrid.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="1634" y="983"/>    
+    <display autosize="false" stereotype="false" package="false" initial-value="false" signature="false" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="false" package="false" protected="false" private="false" static="false"/>      
+      <operations public="false" package="false" protected="false" private="false" static="false"/>    
+    </display>  
+  </class>  
+  <class id="17" language="java" name="sokodan.basic.Location.IteratorPattern.GameGrid" project="BestSokobanEverV6" 
+    file="/BestSokobanEverV6/src/sokodan/basic/Location/IteratorPattern/GameGrid.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="231" width="202" x="659" y="1101"/>    
+    <display autosize="false" stereotype="false" package="false" initial-value="false" signature="false" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="false" package="false" protected="false" private="false" static="false"/>      
+      <operations public="false" package="false" protected="false" private="false" static="false"/>    
+    </display>  
+  </class>  
+  <interface id="18" language="java" name="sokodan.basic.Location.IteratorPattern.Iterator" project="BestSokobanEverV6" 
+    file="/BestSokobanEverV6/src/sokodan/basic/Location/IteratorPattern/Iterator.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="1439" y="827"/>    
+    <display autosize="false" stereotype="false" package="false" initial-value="false" signature="false" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="false" package="false" protected="false" private="false" static="false"/>      
+      <operations public="false" package="false" protected="false" private="false" static="false"/>    
+    </display>  
+  </interface>  
+  <class id="19" language="java" name="sokodan.basic.Location.IteratorPattern.Level" project="BestSokobanEverV6" 
+    file="/BestSokobanEverV6/src/sokodan/basic/Location/IteratorPattern/Level.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="204" width="347" x="570" y="513"/>    
+    <display autosize="false" stereotype="false" package="false" initial-value="false" signature="false" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="false" package="false" protected="false" private="false" static="false"/>      
+      <operations public="false" package="false" protected="false" private="false" static="false"/>    
+    </display>  
+  </class>  
+  <class id="20" language="java" name="sokodan.basic.Location.IteratorPattern.Level.LevelIterator" 
+    project="BestSokobanEverV6" file="/BestSokobanEverV6/src/sokodan/basic/Location/IteratorPattern/Level.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="30" width="136" x="1168" y="562"/>    
+    <display autosize="false" stereotype="false" package="false" initial-value="false" signature="false" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="false" package="false" protected="false" private="false" static="false"/>      
+      <operations public="false" package="false" protected="false" private="false" static="false"/>    
+    </display>  
+  </class>  
+  <enumeration id="21" language="java" name="sokodan.basic.Location.GameObject" project="BestSokobanEverV6" 
+    file="/BestSokobanEverV6/src/sokodan/basic/Location/GameObject.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="1233" y="992"/>    
+    <display autosize="false" stereotype="false" package="false" initial-value="false" signature="false" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="false" package="false" protected="false" private="false" static="false"/>      
+      <operations public="false" package="false" protected="false" private="false" static="false"/>    
+    </display>  
+  </enumeration>  
+  <class id="22" language="java" name="sokodan.basic.Singleton.MusicClass" project="BestSokobanEverV6" 
+    file="/BestSokobanEverV6/src/sokodan/basic/Singleton/MusicClass.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="59" width="128" x="1158" y="-104"/>    
+    <display autosize="false" stereotype="false" package="false" initial-value="false" signature="false" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="false" package="false" protected="false" private="false" static="false"/>      
+      <operations public="false" package="false" protected="false" private="false" static="false"/>    
+    </display>  
+  </class>  
+  <class id="23" language="java" name="sokodan.basic.GraphicObject" project="BestSokobanEverV6" 
+    file="/BestSokobanEverV6/src/sokodan/basic/GraphicObject.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="931" y="-146"/>    
+    <display autosize="false" stereotype="false" package="false" initial-value="false" signature="false" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="false" package="false" protected="false" private="false" static="false"/>      
+      <operations public="false" package="false" protected="false" private="false" static="false"/>    
+    </display>  
+  </class>  
+  <class id="24" language="java" name="sokodan.LevelStatusNow.CurrentStatus" project="BestSokobanEverV6" 
+    file="/BestSokobanEverV6/src/sokodan/LevelStatusNow/CurrentStatus.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="32" width="216" x="106" y="403"/>    
+    <display autosize="false" stereotype="false" package="false" initial-value="false" signature="false" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="false" package="false" protected="false" private="false" static="false"/>      
+      <operations public="false" package="false" protected="false" private="false" static="false"/>    
+    </display>  
+  </class>  
+  <class id="25" language="java" name="sokodan.LevelStatusNow.ProcessFiletoGetContent" project="BestSokobanEverV6" 
+    file="/BestSokobanEverV6/src/sokodan/LevelStatusNow/ProcessFiletoGetContent.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="608" y="418"/>    
+    <display autosize="false" stereotype="false" package="false" initial-value="false" signature="false" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="false" package="false" protected="false" private="false" static="false"/>      
+      <operations public="false" package="false" protected="false" private="false" static="false"/>    
+    </display>  
+  </class>  
+  <class id="26" language="java" name="sokodan.LevelStatusNow.UndoMovement" project="BestSokobanEverV6" 
+    file="/BestSokobanEverV6/src/sokodan/LevelStatusNow/UndoMovement.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="871" y="416"/>    
+    <display autosize="false" stereotype="false" package="false" initial-value="false" signature="false" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="false" package="false" protected="false" private="false" static="false"/>      
+      <operations public="false" package="false" protected="false" private="false" static="false"/>    
+    </display>  
+  </class>  
+  <class id="27" language="java" name="sokodan.MVCHighScore.HighScoreController" project="BestSokobanEverV6" 
+    file="/BestSokobanEverV6/src/sokodan/MVCHighScore/HighScoreController.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="345" y="-176"/>    
+    <display autosize="false" stereotype="false" package="false" initial-value="false" signature="false" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="false" package="false" protected="false" private="false" static="false"/>      
+      <operations public="false" package="false" protected="false" private="false" static="false"/>    
+    </display>  
+  </class>  
+  <class id="28" language="java" name="sokodan.MVCHighScore.ModelHighScore" project="BestSokobanEverV6" 
+    file="/BestSokobanEverV6/src/sokodan/MVCHighScore/ModelHighScore.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="447" y="-51"/>    
+    <display autosize="false" stereotype="false" package="false" initial-value="false" signature="false" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="false" package="false" protected="false" private="false" static="false"/>      
+      <operations public="false" package="false" protected="false" private="false" static="false"/>    
+    </display>  
+  </class>  
+  <class id="29" language="java" name="sokodan.MVCHighScore.MVCpopup" project="BestSokobanEverV6" 
+    file="/BestSokobanEverV6/src/sokodan/MVCHighScore/MVCpopup.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="638" y="-181"/>    
+    <display autosize="false" stereotype="false" package="false" initial-value="false" signature="false" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="false" package="false" protected="false" private="false" static="false"/>      
+      <operations public="false" package="false" protected="false" private="false" static="false"/>    
+    </display>  
+  </class>  
+  <class id="30" language="java" name="sokodan.MVCMainGameScreen.MainController" project="BestSokobanEverV6" 
+    file="/BestSokobanEverV6/src/sokodan/MVCMainGameScreen/MainController.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="121" width="152" x="1639" y="101"/>    
+    <display autosize="false" stereotype="false" package="false" initial-value="false" signature="false" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="false" package="false" protected="false" private="false" static="false"/>      
+      <operations public="false" package="false" protected="false" private="false" static="false"/>    
+    </display>  
+  </class>  
+  <class id="31" language="java" name="sokodan.MVCMainGameScreen.ModelMainScreen" project="BestSokobanEverV6" 
+    file="/BestSokobanEverV6/src/sokodan/MVCMainGameScreen/ModelMainScreen.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="247" width="314" x="1059" y="31"/>    
+    <display autosize="false" stereotype="false" package="false" initial-value="false" signature="false" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="false" package="false" protected="false" private="false" static="false"/>      
+      <operations public="false" package="false" protected="false" private="false" static="false"/>    
+    </display>  
+  </class>  
+  <class id="32" language="java" name="sokodan.MVCStartScreen.ModelStartScreen" project="BestSokobanEverV6" 
+    file="/BestSokobanEverV6/src/sokodan/MVCStartScreen/ModelStartScreen.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="442" y="-290"/>    
+    <display autosize="false" stereotype="false" package="false" initial-value="false" signature="false" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="false" package="false" protected="false" private="false" static="false"/>      
+      <operations public="false" package="false" protected="false" private="false" static="false"/>    
+    </display>  
+  </class>  
+  <class id="33" language="java" name="sokodan.MVCStartScreen.StartController" project="BestSokobanEverV6" 
+    file="/BestSokobanEverV6/src/sokodan/MVCStartScreen/StartController.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="437" y="-381"/>    
+    <display autosize="false" stereotype="false" package="false" initial-value="false" signature="false" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="false" package="false" protected="false" private="false" static="false"/>      
+      <operations public="false" package="false" protected="false" private="false" static="false"/>    
+    </display>  
+  </class>  
+  <class id="34" language="java" name="sokodan.Main" project="BestSokobanEverV6" 
+    file="/BestSokobanEverV6/src/sokodan/Main.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="71" width="164" x="131" y="-486"/>    
+    <display autosize="false" stereotype="false" package="false" initial-value="false" signature="false" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="false" package="false" protected="false" private="false" static="false"/>      
+      <operations public="false" package="false" protected="false" private="false" static="false"/>    
+    </display>  
+  </class>  
+  <association id="35">    
+    <end type="SOURCE" refId="30" navigable="false">      
+      <attribute id="36" name="m_modelMain">        
+        <position height="0" width="0" x="0" y="0"/>      
+      </attribute>      
+      <multiplicity id="37" minimum="0" maximum="1">        
+        <position height="0" width="0" x="0" y="0"/>      
+      </multiplicity>    
+    </end>    
+    <end type="TARGET" refId="31" navigable="true"/>    
+    <display labels="false" multiplicity="true"/>  
+  </association>  
+  <association id="38">    
+    <end type="SOURCE" refId="25" navigable="false">      
+      <attribute id="39" name="m_levels">        
+        <position height="0" width="0" x="0" y="0"/>      
+      </attribute>      
+      <multiplicity id="40" minimum="0" maximum="2147483647">        
+        <position height="0" width="0" x="0" y="0"/>      
+      </multiplicity>    
+    </end>    
+    <end type="TARGET" refId="19" navigable="true"/>    
+    <display labels="false" multiplicity="true"/>  
+  </association>  
+  <realization id="41">    
+    <end type="SOURCE" refId="19"/>    
+    <end type="TARGET" refId="15"/>  
+  </realization>  
+  <dependency id="42">    
+    <bendpoint x="1717" y="573"/>    
+    <end type="SOURCE" refId="30"/>    
+    <end type="TARGET" refId="20"/>  
+  </dependency>  
+  <dependency id="43">    
+    <end type="SOURCE" refId="27"/>    
+    <end type="TARGET" refId="32"/>  
+  </dependency>  
+  <realization id="44">    
+    <end type="SOURCE" refId="17"/>    
+    <end type="TARGET" refId="15"/>  
+  </realization>  
+  <dependency id="45">    
+    <end type="SOURCE" refId="16"/>    
+    <end type="TARGET" refId="21"/>  
+  </dependency>  
+  <dependency id="46">    
+    <end type="SOURCE" refId="20"/>    
+    <end type="TARGET" refId="21"/>  
+  </dependency>  
+  <association id="47">    
+    <bendpoint x="302" y="432"/>    
+    <bendpoint x="301" y="460"/>    
+    <bendpoint x="300" y="563"/>    
+    <bendpoint x="581" y="566"/>    
+    <end type="SOURCE" refId="24" navigable="false">      
+      <attribute id="48" name="m_currentLevel">        
+        <position height="0" width="0" x="0" y="0"/>      
+      </attribute>      
+      <multiplicity id="49" minimum="0" maximum="1">        
+        <position height="0" width="0" x="0" y="0"/>      
+      </multiplicity>    
+    </end>    
+    <end type="TARGET" refId="19" navigable="true"/>    
+    <display labels="false" multiplicity="true"/>  
+  </association>  
+  <association id="50">    
+    <end type="SOURCE" refId="25" navigable="false">      
+      <attribute id="51" name="m_logger">        
+        <position height="0" width="0" x="0" y="0"/>      
+      </attribute>      
+      <multiplicity id="52" minimum="0" maximum="1">        
+        <position height="0" width="0" x="0" y="0"/>      
+      </multiplicity>    
+    </end>    
+    <end type="TARGET" refId="14" navigable="true"/>    
+    <display labels="false" multiplicity="true"/>  
+  </association>  
+  <association id="53">    
+    <end type="SOURCE" refId="27" navigable="false">      
+      <attribute id="54" name="m_modelPop">        
+        <position height="0" width="0" x="0" y="0"/>      
+      </attribute>      
+      <multiplicity id="55" minimum="0" maximum="1">        
+        <position height="0" width="0" x="0" y="0"/>      
+      </multiplicity>    
+    </end>    
+    <end type="TARGET" refId="28" navigable="true"/>    
+    <display labels="false" multiplicity="true"/>  
+  </association>  
+  <nesting id="56">    
+    <bendpoint x="859" y="1255"/>    
+    <bendpoint x="1636" y="1243"/>    
+    <end type="SOURCE" refId="17"/>    
+    <end type="TARGET" refId="16"/>  
+  </nesting>  
+  <association id="57">    
+    <bendpoint x="906" y="628"/>    
+    <bendpoint x="1047" y="626"/>    
+    <bendpoint x="1057" y="1217"/>    
+    <end type="SOURCE" refId="19" navigable="false">      
+      <attribute id="58" name="OBJECTSGRID">        
+        <position height="0" width="0" x="0" y="0"/>      
+      </attribute>      
+      <multiplicity id="59" minimum="0" maximum="1">        
+        <position height="0" width="0" x="0" y="0"/>      
+      </multiplicity>    
+    </end>    
+    <end type="TARGET" refId="17" navigable="true"/>    
+    <display labels="false" multiplicity="true"/>  
+  </association>  
+  <association id="60">    
+    <end type="SOURCE" refId="24" navigable="false">      
+      <attribute id="61" name="m_obj">        
+        <position height="0" width="0" x="0" y="0"/>      
+      </attribute>      
+      <multiplicity id="62" minimum="0" maximum="1">        
+        <position height="0" width="0" x="0" y="0"/>      
+      </multiplicity>    
+    </end>    
+    <end type="TARGET" refId="25" navigable="true"/>    
+    <display labels="false" multiplicity="true"/>  
+  </association>  
+  <realization id="63">    
+    <end type="SOURCE" refId="16"/>    
+    <end type="TARGET" refId="18"/>  
+  </realization>  
+  <realization id="64">    
+    <end type="SOURCE" refId="6"/>    
+    <end type="TARGET" refId="2"/>  
+  </realization>  
+  <dependency id="65">    
+    <end type="SOURCE" refId="29"/>    
+    <end type="TARGET" refId="32"/>  
+  </dependency>  
+  <association id="66">    
+    <end type="SOURCE" refId="31" navigable="false">      
+      <attribute id="67" name="m_music">        
+        <position height="0" width="0" x="0" y="0"/>      
+      </attribute>      
+      <multiplicity id="68" minimum="0" maximum="1">        
+        <position height="0" width="0" x="0" y="0"/>      
+      </multiplicity>    
+    </end>    
+    <end type="TARGET" refId="22" navigable="true"/>    
+    <display labels="false" multiplicity="true"/>  
+  </association>  
+  <dependency id="69">    
+    <end type="SOURCE" refId="30"/>    
+    <end type="TARGET" refId="13"/>  
+  </dependency>  
+  <dependency id="70">    
+    <end type="SOURCE" refId="10"/>    
+    <end type="TARGET" refId="9"/>  
+  </dependency>  
+  <association id="71">    
+    <end type="SOURCE" refId="24" navigable="false">      
+      <attribute id="72" name="m_logger">        
+        <position height="0" width="0" x="0" y="0"/>      
+      </attribute>      
+      <multiplicity id="73" minimum="0" maximum="1">        
+        <position height="0" width="0" x="0" y="0"/>      
+      </multiplicity>    
+    </end>    
+    <end type="TARGET" refId="14" navigable="true"/>    
+    <display labels="false" multiplicity="true"/>  
+  </association>  
+  <dependency id="74">    
+    <bendpoint x="2017" y="-469"/>    
+    <bendpoint x="2022" y="34"/>    
+    <end type="SOURCE" refId="34"/>    
+    <end type="TARGET" refId="30"/>  
+  </dependency>  
+  <realization id="75">    
+    <end type="SOURCE" refId="11"/>    
+    <end type="TARGET" refId="9"/>  
+  </realization>  
+  <association id="76">    
+    <end type="SOURCE" refId="33" navigable="false">      
+      <attribute id="77" name="m_modelStart">        
+        <position height="0" width="0" x="0" y="0"/>      
+      </attribute>      
+      <multiplicity id="78" minimum="0" maximum="1">        
+        <position height="0" width="0" x="0" y="0"/>      
+      </multiplicity>    
+    </end>    
+    <end type="TARGET" refId="32" navigable="true"/>    
+    <display labels="false" multiplicity="true"/>  
+  </association>  
+  <association id="79">    
+    <end type="SOURCE" refId="22" navigable="false">      
+      <attribute id="80" name="m_instance">        
+        <position height="0" width="0" x="0" y="0"/>      
+      </attribute>      
+      <multiplicity id="81" minimum="0" maximum="1">        
+        <position height="0" width="0" x="0" y="0"/>      
+      </multiplicity>    
+    </end>    
+    <end type="TARGET" refId="22" navigable="true"/>    
+    <display labels="false" multiplicity="true"/>  
+  </association>  
+  <association id="82">    
+    <end type="SOURCE" refId="26" navigable="false">      
+      <attribute id="83" name="m_logger">        
+        <position height="0" width="0" x="0" y="0"/>      
+      </attribute>      
+      <multiplicity id="84" minimum="0" maximum="1">        
+        <position height="0" width="0" x="0" y="0"/>      
+      </multiplicity>    
+    </end>    
+    <end type="TARGET" refId="14" navigable="true"/>    
+    <display labels="false" multiplicity="true"/>  
+  </association>  
+  <association id="85">    
+    <bendpoint x="1216" y="452"/>    
+    <end type="SOURCE" refId="31" navigable="false">      
+      <attribute id="86" name="m_level1">        
+        <position height="0" width="0" x="0" y="0"/>      
+      </attribute>      
+      <multiplicity id="87" minimum="0" maximum="1">        
+        <position height="0" width="0" x="0" y="0"/>      
+      </multiplicity>    
+    </end>    
+    <end type="TARGET" refId="19" navigable="true"/>    
+    <display labels="false" multiplicity="true"/>  
+  </association>  
+  <realization id="88">    
+    <end type="SOURCE" refId="8"/>    
+    <end type="TARGET" refId="9"/>  
+  </realization>  
+  <association id="89">    
+    <bendpoint x="149" y="152"/>    
+    <bendpoint x="147" y="399"/>    
+    <end type="SOURCE" refId="31" navigable="false">      
+      <attribute id="90" name="m_gameEngine">        
+        <position height="0" width="0" x="0" y="0"/>      
+      </attribute>      
+      <multiplicity id="91" minimum="0" maximum="1">        
+        <position height="0" width="0" x="0" y="0"/>      
+      </multiplicity>    
+    </end>    
+    <end type="TARGET" refId="24" navigable="true"/>    
+    <display labels="false" multiplicity="true"/>  
+  </association>  
+  <association id="92">    
+    <end type="SOURCE" refId="29" navigable="false">      
+      <attribute id="93" name="m_modelPop">        
+        <position height="0" width="0" x="0" y="0"/>      
+      </attribute>      
+      <multiplicity id="94" minimum="0" maximum="1">        
+        <position height="0" width="0" x="0" y="0"/>      
+      </multiplicity>    
+    </end>    
+    <end type="TARGET" refId="28" navigable="true"/>    
+    <display labels="false" multiplicity="true"/>  
+  </association>  
+  <association id="95">    
+    <end type="SOURCE" refId="1" navigable="false">      
+      <attribute id="96" name="m_advancedMusicPlayer">        
+        <position height="0" width="0" x="0" y="0"/>      
+      </attribute>      
+      <multiplicity id="97" minimum="0" maximum="1">        
+        <position height="0" width="0" x="0" y="0"/>      
+      </multiplicity>    
+    </end>    
+    <end type="TARGET" refId="2" navigable="true"/>    
+    <display labels="false" multiplicity="true"/>  
+  </association>  
+  <dependency id="98">    
+    <end type="SOURCE" refId="30"/>    
+    <end type="TARGET" refId="10"/>  
+  </dependency>  
+  <realization id="99">    
+    <end type="SOURCE" refId="5"/>    
+    <end type="TARGET" refId="2"/>  
+  </realization>  
+  <nesting id="100">    
+    <bendpoint x="921" y="575"/>    
+    <end type="SOURCE" refId="19"/>    
+    <end type="TARGET" refId="20"/>  
+  </nesting>  
+  <association id="101">    
+    <end type="SOURCE" refId="31" navigable="false">      
+      <attribute id="102" name="m_graphicObject">        
+        <position height="0" width="0" x="0" y="0"/>      
+      </attribute>      
+      <multiplicity id="103" minimum="0" maximum="1">        
+        <position height="0" width="0" x="0" y="0"/>      
+      </multiplicity>    
+    </end>    
+    <end type="TARGET" refId="23" navigable="true"/>    
+    <display labels="false" multiplicity="true"/>  
+  </association>  
+  <realization id="104">    
+    <end type="SOURCE" refId="1"/>    
+    <end type="TARGET" refId="4"/>  
+  </realization>  
+  <dependency id="105">    
+    <bendpoint x="279" y="-413"/>    
+    <bendpoint x="278" y="-377"/>    
+    <end type="SOURCE" refId="34"/>    
+    <end type="TARGET" refId="33"/>  
+  </dependency>  
+  <association id="106">    
+    <end type="SOURCE" refId="31" navigable="false">      
+      <attribute id="107" name="m_colorfactory">        
+        <position height="0" width="0" x="0" y="0"/>      
+      </attribute>      
+      <multiplicity id="108" minimum="0" maximum="1">        
+        <position height="0" width="0" x="0" y="0"/>      
+      </multiplicity>    
+    </end>    
+    <end type="TARGET" refId="10" navigable="true"/>    
+    <display labels="false" multiplicity="true"/>  
+  </association>  
+  <realization id="109">    
+    <end type="SOURCE" refId="12"/>    
+    <end type="TARGET" refId="9"/>  
+  </realization>  
+  <realization id="110">    
+    <end type="SOURCE" refId="3"/>    
+    <end type="TARGET" refId="4"/>  
+  </realization>  
+  <association id="111">    
+    <end type="SOURCE" refId="19" navigable="false">      
+      <attribute id="112" name="DIAMONDSGRID">        
+        <position height="0" width="0" x="0" y="0"/>      
+      </attribute>      
+      <multiplicity id="113" minimum="0" maximum="1">        
+        <position height="0" width="0" x="0" y="0"/>      
+      </multiplicity>    
+    </end>    
+    <end type="TARGET" refId="17" navigable="true"/>    
+    <display labels="false" multiplicity="true"/>  
+  </association>  
+  <association id="114">    
+    <end type="SOURCE" refId="3" navigable="false">      
+      <attribute id="115" name="m_mediaAdapter">        
+        <position height="0" width="0" x="0" y="0"/>      
+      </attribute>      
+      <multiplicity id="116" minimum="0" maximum="1">        
+        <position height="0" width="0" x="0" y="0"/>      
+      </multiplicity>    
+    </end>    
+    <end type="TARGET" refId="1" navigable="true"/>    
+    <display labels="false" multiplicity="true"/>  
+  </association>  
+  <dependency id="117">    
+    <end type="SOURCE" refId="34"/>    
+    <end type="TARGET" refId="24"/>  
+  </dependency>  
+  <association id="118">    
+    <bendpoint x="214" y="611"/>    
+    <end type="SOURCE" refId="24" navigable="false">      
+      <attribute id="119" name="m_levels">        
+        <position height="0" width="0" x="0" y="0"/>      
+      </attribute>      
+      <multiplicity id="120" minimum="0" maximum="2147483647">        
+        <position height="0" width="0" x="0" y="0"/>      
+      </multiplicity>    
+    </end>    
+    <end type="TARGET" refId="19" navigable="true"/>    
+    <display labels="false" multiplicity="true"/>  
+  </association>  
+  <realization id="121">    
+    <end type="SOURCE" refId="7"/>    
+    <end type="TARGET" refId="9"/>  
+  </realization>  
+  <association id="122">    
+    <bendpoint x="435" y="-433"/>    
+    <bendpoint x="297" y="-432"/>    
+    <end type="SOURCE" refId="33" navigable="false">      
+      <attribute id="123" name="m_main">        
+        <position height="0" width="0" x="0" y="0"/>      
+      </attribute>      
+      <multiplicity id="124" minimum="0" maximum="1">        
+        <position height="0" width="0" x="0" y="0"/>      
+      </multiplicity>    
+    </end>    
+    <end type="TARGET" refId="34" navigable="true"/>    
+    <display labels="false" multiplicity="true"/>  
+  </association>  
+  <dependency id="125">    
+    <end type="SOURCE" refId="30"/>    
+    <end type="TARGET" refId="3"/>  
+  </dependency>  
+  <association id="126">    
+    <bendpoint x="1059" y="71"/>    
+    <bendpoint x="63" y="73"/>    
+    <bendpoint x="64" y="952"/>    
+    <end type="SOURCE" refId="31" navigable="false">      
+      <attribute id="127" name="m_dia">        
+        <position height="0" width="0" x="0" y="0"/>      
+      </attribute>      
+      <multiplicity id="128" minimum="0" maximum="1">        
+        <position height="0" width="0" x="0" y="0"/>      
+      </multiplicity>    
+    </end>    
+    <end type="TARGET" refId="17" navigable="true"/>    
+    <display labels="false" multiplicity="true"/>  
+  </association>  
+  <association id="129">    
+    <bendpoint x="859" y="1233"/>    
+    <bendpoint x="1234" y="1227"/>    
+    <end type="SOURCE" refId="17" navigable="false">      
+      <attribute id="130" name="m_gameObjects">        
+        <position height="0" width="0" x="0" y="0"/>      
+      </attribute>      
+      <multiplicity id="131" minimum="0" maximum="2147483647">        
+        <position height="0" width="0" x="0" y="0"/>      
+      </multiplicity>    
+    </end>    
+    <end type="TARGET" refId="21" navigable="true"/>    
+    <display labels="false" multiplicity="true"/>  
+  </association>  
+  <realization id="132">    
+    <end type="SOURCE" refId="20"/>    
+    <end type="TARGET" refId="18"/>  
+  </realization>  
+  <association id="133">    
+    <end type="SOURCE" refId="26" navigable="false">      
+      <attribute id="134" name="m_currentLevel">        
+        <position height="0" width="0" x="0" y="0"/>      
+      </attribute>      
+      <multiplicity id="135" minimum="0" maximum="1">        
+        <position height="0" width="0" x="0" y="0"/>      
+      </multiplicity>    
+    </end>    
+    <end type="TARGET" refId="19" navigable="true"/>    
+    <display labels="false" multiplicity="true"/>  
+  </association>  
+  <classifier-display autosize="false" stereotype="false" package="false" initial-value="false" signature="false" 
+    sort-features="false" accessors="true" visibility="true">    
+    <attributes public="false" package="false" protected="false" private="false" static="false"/>    
+    <operations public="false" package="false" protected="false" private="false" static="false"/>  
+  </classifier-display>  
+  <association-display labels="false" multiplicity="true"/>
+</class-diagram>

@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: de.mirkosertic.bytecoder:java.logging:2020-12-01">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/de/mirkosertic/bytecoder/java.logging/2020-12-01/java.logging-2020-12-01.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/de/mirkosertic/bytecoder/java.logging/2020-12-01/java.logging-2020-12-01-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/de/mirkosertic/bytecoder/java.logging/2020-12-01/java.logging-2020-12-01-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
