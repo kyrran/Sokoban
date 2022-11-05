@@ -10,7 +10,7 @@
 ## Refactoring
 ###### Finished
 * Added **JavaDoc** (including getters & setters) for classes and methods, to describe functionality.
-    * Path is _project/YuanKangle_Eclipse_14/BestSokobanEverV6/doc/index.html_
+    * Path is /BestSokobanEverV6/doc/index.html_
 * Created **Hierarchy package** structures and source folders to organise project
 * Basic initial **maintainance**:
     * Followed Bob's **coding convention** to make code more readable
